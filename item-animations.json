@@ -27,7 +27,9 @@
   },
   {
     "ids": [
-      837
+      837,
+      21902,
+      9185
     ],
     "stand": 4591,
     "walk": 4226,
@@ -37,6 +39,32 @@
     "walkRLeft": 821,
     "standRRight": 823,
     "standRLeft": 823
+  },
+  {
+    "ids": [
+      4886
+    ],
+    "stand": 2065,
+    "walk": 2064,
+    "run": 824,
+    "walkR180": 2064,
+    "walkRRight": 2064,
+    "walkRLeft": 2064,
+    "standRRight": 823,
+    "standRLeft": 823
+  },
+  {
+    "ids": [
+      11838
+    ],
+    "stand": 7053,
+    "walk": 7052,
+    "run": 7043,
+    "walkR180": 7052,
+    "walkRRight": 7047,
+    "walkRLeft": 7048,
+    "standRRight": 7044,
+    "standRLeft": 7044
   },
   {
     "ids": [
@@ -80,6 +108,19 @@
   },
   {
     "ids": [
+      22545
+    ],
+    "stand": 244,
+    "walk": 247,
+    "run": 248,
+    "walkR180": 247,
+    "walkRRight": 247,
+    "walkRLeft": 247,
+    "standRRight": 823,
+    "standRLeft": 823
+  },
+  {
+    "ids": [
       23108
     ],
     "stand": 4193,
@@ -103,6 +144,19 @@
     "walkRLeft": 821,
     "standRRight": 823,
     "standRLeft": 823
+  },
+  {
+    "ids": [
+      27275
+    ],
+    "stand": 9494,
+    "walk": 1703,
+    "run": 1707,
+    "walkR180": 1704,
+    "walkRRight": 1705,
+    "walkRLeft": 1706,
+    "standRRight": 1702,
+    "standRLeft": 1702
   },
   {
     "ids": [
@@ -154,9 +208,31 @@
       1271,
       843,
       1375,
-      1345
+      1345,
+      7409,
+      6739,
+      21028,
+      861,
+      807,
+      11920,
+      12788,
+      2417,
+      19675
     ],
     "stand": 808,
+    "walk": 819,
+    "run": 824,
+    "walkR180": 820,
+    "walkRRight": 822,
+    "walkRLeft": 821,
+    "standRRight": 823,
+    "standRLeft": 823
+  },
+  {
+    "ids": [
+      1305
+    ],
+    "stand": 809,
     "walk": 819,
     "run": 824,
     "walkR180": 820,
@@ -215,7 +291,18 @@
       1383,
       1385,
       1387,
-      22370
+      22370,
+      20736,
+      12926,
+      1393,
+      12000,
+      772,
+      4675,
+      1399,
+      6562,
+      11787,
+      6914,
+      3053
     ],
     "stand": 813,
     "walk": 1205,
@@ -238,6 +325,20 @@
     "walkRLeft": -1,
     "standRRight": -1,
     "standRLeft": -1
+  },
+  {
+    "ids": [
+      12773,
+      4151
+    ],
+    "stand": 808,
+    "walk": 1660,
+    "run": 1661,
+    "walkR180": 1660,
+    "walkRRight": 1660,
+    "walkRLeft": 1660,
+    "standRRight": 823,
+    "standRLeft": 823
   },
   {
     "ids": [
