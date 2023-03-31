@@ -1,0 +1,52 @@
+[
+  {
+    "ids": [
+      10,
+      12
+    ],
+    "startHeight": 40,
+    "endHeight": 36,
+    "delay": 41,
+    "speed": 61,
+    "slope": 15,
+    "radius": 11,
+    "delta1": 3
+  },
+  {
+    "ids": [
+      130
+    ],
+    "startHeight": 43,
+    "endHeight": 31,
+    "delay": 51,
+    "speed": 56,
+    "slope": 16,
+    "radius": 64,
+    "delta1": 1
+  },
+  {
+    "ids": [
+      12
+    ],
+    "startHeight": 40,
+    "endHeight": 36,
+    "delay": 41,
+    "speed": 51,
+    "slope": 15,
+    "radius": 11,
+    "delta1": 1
+  },
+  {
+    "ids": [
+      10,
+      12
+    ],
+    "startHeight": 40,
+    "endHeight": 36,
+    "delay": 41,
+    "speed": 56,
+    "slope": 15,
+    "radius": 11,
+    "delta1": 2
+  }
+]
