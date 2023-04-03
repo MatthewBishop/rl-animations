@@ -13,6 +13,18 @@
   },
   {
     "ids": [
+      1120
+    ],
+    "startHeight": 40,
+    "endHeight": 36,
+    "delay": 41,
+    "speed": 66,
+    "slope": 5,
+    "radius": 11,
+    "delta1": 4
+  },
+  {
+    "ids": [
       2281
     ],
     "startHeight": 35,
@@ -76,7 +88,8 @@
     "ids": [
       130,
       118,
-      1465
+      1465,
+      127
     ],
     "startHeight": 43,
     "endHeight": 31,
@@ -149,6 +162,31 @@
   },
   {
     "ids": [
+      1120,
+      1099
+    ],
+    "startHeight": 40,
+    "endHeight": 36,
+    "delay": 41,
+    "speed": 155,
+    "slope": 25,
+    "radius": 11,
+    "delta1": 10
+  },
+  {
+    "ids": [
+      249
+    ],
+    "startHeight": 40,
+    "endHeight": 36,
+    "delay": 50,
+    "speed": 62,
+    "slope": 15,
+    "radius": 11,
+    "delta1": 4
+  },
+  {
+    "ids": [
       249
     ],
     "startHeight": 40,
@@ -158,6 +196,18 @@
     "slope": 15,
     "radius": 11,
     "delta1": 2
+  },
+  {
+    "ids": [
+      1995
+    ],
+    "startHeight": 44,
+    "endHeight": 36,
+    "delay": 41,
+    "speed": 75,
+    "slope": 5,
+    "radius": 72,
+    "delta1": 3
   },
   {
     "ids": [
@@ -171,6 +221,18 @@
     "slope": 16,
     "radius": 64,
     "delta1": 8
+  },
+  {
+    "ids": [
+      1995
+    ],
+    "startHeight": 44,
+    "endHeight": 36,
+    "delay": 41,
+    "speed": 75,
+    "slope": 5,
+    "radius": 72,
+    "delta1": 4
   },
   {
     "ids": [
@@ -200,6 +262,18 @@
   },
   {
     "ids": [
+      1995
+    ],
+    "startHeight": 44,
+    "endHeight": 36,
+    "delay": 41,
+    "speed": 75,
+    "slope": 5,
+    "radius": 72,
+    "delta1": 1
+  },
+  {
+    "ids": [
       249
     ],
     "startHeight": 40,
@@ -209,6 +283,18 @@
     "slope": 15,
     "radius": 11,
     "delta1": 1
+  },
+  {
+    "ids": [
+      1301
+    ],
+    "startHeight": 38,
+    "endHeight": 36,
+    "delay": 49,
+    "speed": 58,
+    "slope": 1,
+    "radius": 120,
+    "delta1": 3
   },
   {
     "ids": [
@@ -236,6 +322,18 @@
   },
   {
     "ids": [
+      1120
+    ],
+    "startHeight": 40,
+    "endHeight": 36,
+    "delay": 41,
+    "speed": 71,
+    "slope": 5,
+    "radius": 11,
+    "delta1": 5
+  },
+  {
+    "ids": [
       1122
     ],
     "startHeight": 35,
@@ -245,6 +343,18 @@
     "slope": 15,
     "radius": 105,
     "delta1": 4
+  },
+  {
+    "ids": [
+      1468
+    ],
+    "startHeight": 44,
+    "endHeight": 36,
+    "delay": 41,
+    "speed": 86,
+    "slope": 5,
+    "radius": 72,
+    "delta1": 8
   },
   {
     "ids": [
@@ -261,6 +371,19 @@
     "slope": 15,
     "radius": 11,
     "delta1": 1
+  },
+  {
+    "ids": [
+      1120,
+      1099
+    ],
+    "startHeight": 40,
+    "endHeight": 36,
+    "delay": 41,
+    "speed": 106,
+    "slope": 5,
+    "radius": 11,
+    "delta1": 10
   },
   {
     "ids": [
@@ -316,7 +439,8 @@
   {
     "ids": [
       27,
-      1468
+      1468,
+      698
     ],
     "startHeight": 38,
     "endHeight": 36,
@@ -406,6 +530,18 @@
   },
   {
     "ids": [
+      178
+    ],
+    "startHeight": 45,
+    "endHeight": 0,
+    "delay": 75,
+    "speed": 116,
+    "slope": 16,
+    "radius": 64,
+    "delta1": 7
+  },
+  {
+    "ids": [
       27,
       1468
     ],
@@ -431,6 +567,18 @@
   },
   {
     "ids": [
+      368
+    ],
+    "startHeight": 43,
+    "endHeight": 0,
+    "delay": 51,
+    "speed": 136,
+    "slope": 16,
+    "radius": 64,
+    "delta1": 0
+  },
+  {
+    "ids": [
       118,
       1465
     ],
@@ -453,6 +601,18 @@
     "slope": 0,
     "radius": 0,
     "delta1": 1
+  },
+  {
+    "ids": [
+      368
+    ],
+    "startHeight": 43,
+    "endHeight": 0,
+    "delay": 51,
+    "speed": 56,
+    "slope": 16,
+    "radius": 64,
+    "delta1": 0
   },
   {
     "ids": [
@@ -483,7 +643,8 @@
   {
     "ids": [
       1384,
-      13
+      13,
+      15
     ],
     "startHeight": 40,
     "endHeight": 36,
@@ -519,6 +680,18 @@
   },
   {
     "ids": [
+      368
+    ],
+    "startHeight": 43,
+    "endHeight": 0,
+    "delay": 51,
+    "speed": 96,
+    "slope": 16,
+    "radius": 64,
+    "delta1": 0
+  },
+  {
+    "ids": [
       1301
     ],
     "startHeight": 38,
@@ -532,7 +705,8 @@
   {
     "ids": [
       118,
-      1465
+      1465,
+      130
     ],
     "startHeight": 43,
     "endHeight": 31,
@@ -544,8 +718,21 @@
   },
   {
     "ids": [
+      27
+    ],
+    "startHeight": 38,
+    "endHeight": 36,
+    "delay": 41,
+    "speed": 86,
+    "slope": 5,
+    "radius": 11,
+    "delta1": 8
+  },
+  {
+    "ids": [
       1318,
-      699
+      699,
+      1629
     ],
     "startHeight": 40,
     "endHeight": 36,
@@ -618,6 +805,18 @@
   },
   {
     "ids": [
+      1468
+    ],
+    "startHeight": 44,
+    "endHeight": 36,
+    "delay": 41,
+    "speed": 76,
+    "slope": 5,
+    "radius": 72,
+    "delta1": 6
+  },
+  {
+    "ids": [
       178
     ],
     "startHeight": 45,
@@ -682,7 +881,8 @@
     "ids": [
       118,
       1465,
-      156
+      156,
+      130
     ],
     "startHeight": 43,
     "endHeight": 31,
@@ -707,7 +907,8 @@
   {
     "ids": [
       27,
-      1468
+      1468,
+      698
     ],
     "startHeight": 38,
     "endHeight": 36,
@@ -746,7 +947,8 @@
     "ids": [
       1384,
       2282,
-      13
+      13,
+      15
     ],
     "startHeight": 40,
     "endHeight": 36,
@@ -786,7 +988,8 @@
       213,
       697,
       218,
-      28
+      28,
+      1936
     ],
     "startHeight": 40,
     "endHeight": 36,
@@ -801,7 +1004,8 @@
       100,
       118,
       1465,
-      156
+      156,
+      130
     ],
     "startHeight": 43,
     "endHeight": 31,
@@ -826,7 +1030,8 @@
   {
     "ids": [
       1384,
-      13
+      13,
+      15
     ],
     "startHeight": 40,
     "endHeight": 36,
@@ -874,6 +1079,18 @@
   },
   {
     "ids": [
+      368
+    ],
+    "startHeight": 43,
+    "endHeight": 0,
+    "delay": 51,
+    "speed": 86,
+    "slope": 16,
+    "radius": 64,
+    "delta1": 0
+  },
+  {
+    "ids": [
       143
     ],
     "startHeight": 35,
@@ -898,7 +1115,8 @@
   },
   {
     "ids": [
-      1299
+      1299,
+      1300
     ],
     "startHeight": 43,
     "endHeight": 31,
@@ -923,6 +1141,30 @@
   },
   {
     "ids": [
+      143
+    ],
+    "startHeight": 35,
+    "endHeight": 0,
+    "delay": 48,
+    "speed": 146,
+    "slope": 16,
+    "radius": 64,
+    "delta1": 10
+  },
+  {
+    "ids": [
+      1299
+    ],
+    "startHeight": 43,
+    "endHeight": 31,
+    "delay": 46,
+    "speed": 85,
+    "slope": 16,
+    "radius": 64,
+    "delta1": 6
+  },
+  {
+    "ids": [
       27,
       1468
     ],
@@ -941,7 +1183,8 @@
       1319,
       697,
       218,
-      28
+      28,
+      1936
     ],
     "startHeight": 40,
     "endHeight": 36,
@@ -978,6 +1221,18 @@
   },
   {
     "ids": [
+      1299
+    ],
+    "startHeight": 43,
+    "endHeight": 31,
+    "delay": 46,
+    "speed": 85,
+    "slope": 16,
+    "radius": 64,
+    "delta1": 5
+  },
+  {
+    "ids": [
       1120,
       1099
     ],
@@ -1002,6 +1257,18 @@
     "slope": 15,
     "radius": 11,
     "delta1": 3
+  },
+  {
+    "ids": [
+      249
+    ],
+    "startHeight": 40,
+    "endHeight": 36,
+    "delay": 20,
+    "speed": 42,
+    "slope": 15,
+    "radius": 11,
+    "delta1": 4
   },
   {
     "ids": [
@@ -1116,7 +1383,8 @@
   },
   {
     "ids": [
-      27
+      27,
+      1468
     ],
     "startHeight": 38,
     "endHeight": 36,
@@ -1132,7 +1400,8 @@
       12,
       1384,
       2282,
-      13
+      13,
+      15
     ],
     "startHeight": 40,
     "endHeight": 36,
@@ -1180,8 +1449,33 @@
   },
   {
     "ids": [
+      368
+    ],
+    "startHeight": 43,
+    "endHeight": 0,
+    "delay": 51,
+    "speed": 146,
+    "slope": 16,
+    "radius": 64,
+    "delta1": 0
+  },
+  {
+    "ids": [
+      178
+    ],
+    "startHeight": 45,
+    "endHeight": 0,
+    "delay": 75,
+    "speed": 106,
+    "slope": 16,
+    "radius": 64,
+    "delta1": 6
+  },
+  {
+    "ids": [
       699,
-      1629
+      1629,
+      1318
     ],
     "startHeight": 40,
     "endHeight": 36,
@@ -1209,7 +1503,8 @@
       12,
       1384,
       2282,
-      13
+      13,
+      15
     ],
     "startHeight": 40,
     "endHeight": 36,
@@ -1247,7 +1542,9 @@
   },
   {
     "ids": [
-      27
+      27,
+      1468,
+      698
     ],
     "startHeight": 38,
     "endHeight": 36,
@@ -1276,7 +1573,8 @@
       1319,
       697,
       218,
-      28
+      28,
+      1936
     ],
     "startHeight": 40,
     "endHeight": 36,
