@@ -15,6 +15,54 @@
     "startHeight": 43,
     "endHeight": 0,
     "delay": 51,
+    "speed": 56,
+    "slope": 16,
+    "radius": 64,
+    "delta1": 1,
+    "ids": [
+      374
+    ]
+  },
+  {
+    "startHeight": 43,
+    "endHeight": 0,
+    "delay": 51,
+    "speed": 66,
+    "slope": 16,
+    "radius": 64,
+    "delta1": 0,
+    "ids": [
+      368
+    ]
+  },
+  {
+    "startHeight": 43,
+    "endHeight": 0,
+    "delay": 51,
+    "speed": 66,
+    "slope": 16,
+    "radius": 64,
+    "delta1": 2,
+    "ids": [
+      374
+    ]
+  },
+  {
+    "startHeight": 43,
+    "endHeight": 0,
+    "delay": 51,
+    "speed": 76,
+    "slope": 16,
+    "radius": 64,
+    "delta1": 0,
+    "ids": [
+      368
+    ]
+  },
+  {
+    "startHeight": 43,
+    "endHeight": 0,
+    "delay": 51,
     "speed": 86,
     "slope": 16,
     "radius": 64,
@@ -27,7 +75,7 @@
     "startHeight": 43,
     "endHeight": 0,
     "delay": 51,
-    "speed": 96,
+    "speed": 106,
     "slope": 16,
     "radius": 64,
     "delta1": 0,
@@ -52,6 +100,18 @@
     "endHeight": 0,
     "delay": 51,
     "speed": 136,
+    "slope": 16,
+    "radius": 64,
+    "delta1": 0,
+    "ids": [
+      368
+    ]
+  },
+  {
+    "startHeight": 43,
+    "endHeight": 0,
+    "delay": 51,
+    "speed": 146,
     "slope": 16,
     "radius": 64,
     "delta1": 0,
@@ -346,6 +406,30 @@
     "delta1": 6,
     "ids": [
       1299
+    ]
+  },
+  {
+    "startHeight": 43,
+    "endHeight": 31,
+    "delay": 46,
+    "speed": 85,
+    "slope": 16,
+    "radius": 64,
+    "delta1": 7,
+    "ids": [
+      1299
+    ]
+  },
+  {
+    "startHeight": 43,
+    "endHeight": 31,
+    "delay": 46,
+    "speed": 85,
+    "slope": 16,
+    "radius": 64,
+    "delta1": 9,
+    "ids": [
+      1300
     ]
   },
   {
@@ -664,6 +748,18 @@
     "slope": 16,
     "radius": 64,
     "delta1": 4,
+    "ids": [
+      178
+    ]
+  },
+  {
+    "startHeight": 45,
+    "endHeight": 0,
+    "delay": 75,
+    "speed": 96,
+    "slope": 16,
+    "radius": 64,
+    "delta1": 5,
     "ids": [
       178
     ]
@@ -1192,6 +1288,7 @@
       2282,
       12,
       13,
+      1934,
       15
     ]
   },
@@ -1234,6 +1331,7 @@
       2282,
       12,
       13,
+      1934,
       15
     ]
   },
@@ -1276,6 +1374,7 @@
       2282,
       12,
       13,
+      1934,
       15
     ]
   },
@@ -1329,6 +1428,7 @@
       1384,
       2282,
       13,
+      1934,
       15
     ]
   },
@@ -1368,6 +1468,7 @@
     "ids": [
       1384,
       13,
+      1934,
       15
     ]
   },
@@ -1568,19 +1669,7 @@
     "startHeight": 43,
     "endHeight": 0,
     "delay": 51,
-    "speed": 76,
-    "slope": 16,
-    "radius": 64,
-    "delta1": 0,
-    "ids": [
-      368
-    ]
-  },
-  {
-    "startHeight": 43,
-    "endHeight": 0,
-    "delay": 51,
-    "speed": 106,
+    "speed": 96,
     "slope": 16,
     "radius": 64,
     "delta1": 0,
@@ -1593,18 +1682,6 @@
     "endHeight": 0,
     "delay": 51,
     "speed": 116,
-    "slope": 16,
-    "radius": 64,
-    "delta1": 0,
-    "ids": [
-      368
-    ]
-  },
-  {
-    "startHeight": 43,
-    "endHeight": 0,
-    "delay": 51,
-    "speed": 146,
     "slope": 16,
     "radius": 64,
     "delta1": 0,
